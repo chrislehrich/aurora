@@ -23,7 +23,6 @@
 			<stat name="companion:ac" value="15" />
 			<stat name="companion:attack" value="+5" />
 			<stat name="companion:damage" value="1d8+3 piercing/slashing" />			
-			<! stat name="companion:hp:max" value="level:rogue" * 8 />
 		</rules>
 	</element>
 
