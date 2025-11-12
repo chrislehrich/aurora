@@ -1,4 +1,4 @@
-	<element name="Dino-Rider" type="Archetype" source="Mark's Eberron" id="ID_CUSTOM_ARCHETYPE_DINORIDER">
+	<element name="Dino-Rider" type="Archetype" source="MFloyd Eberron" id="ID_CUSTOM_ARCHETYPE_DINORIDER">
 		<supports>Roguish Archetype</supports>
 		<description>
 			<p>You are trained in the Talenta arts of dinosaur riding.</p>
