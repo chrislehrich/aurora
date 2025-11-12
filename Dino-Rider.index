@@ -7,10 +7,12 @@
 	</info>
 
 	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/source.xml" />
 		<file name="Dino-Rider" url="https://github.com/chrislehrich/aurora/blob/main/Dino-Rider" />
 	</files>
 
 </index>
+
 
 
 
